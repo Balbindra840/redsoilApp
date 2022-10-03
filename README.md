@@ -51,6 +51,6 @@ This program is free software: you can redistribute it and/or modify it under th
 # Developers
 RedSoil is developed and maintained under [Haitomns Groups Private Limited](https://haitomns.com), developers of the application,
 
-1. [Haitomns G](https://github.com/haitomns4173)
+**<a href="https://github.com/haitomns4173/"><img src="https://avatars.githubusercontent.com/u/67961014?v=4" align="left" height="30" width="30">Haitomns G</a>**
 
-We welcome developers wishing to contribute in this project improve it and fix the bug.
+We welcome developers wishing to contribute in this project improve it and resolve errors.
