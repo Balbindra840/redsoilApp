@@ -49,7 +49,7 @@ This program is free software: you can redistribute it and/or modify it under th
 
 <a href="https://github.com/haitomnsgroupsp"><img src="https://github.com/haitomnsgroups/redsoilApp/blob/master/src/main/resources/com.haitomns.images/haitomnsLogoRed.png" align="right" height="100" width="100" ></a>
 # Developers
-RedSoil is developed and maintained under Haitomns Groups Private Limited, developers of the application,
+RedSoil is developed and maintained under [Haitomns Groups Private Limited](https://haitomns.com), developers of the application,
 
 1. [Haitomns G](https://github.com/haitomns4173)
 
